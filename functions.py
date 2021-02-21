@@ -13,3 +13,7 @@ def multiply(x,y):
 def divide(x,y):
     result = x/y
     return result
+
+def square(x):
+    square = x**2
+    return square
