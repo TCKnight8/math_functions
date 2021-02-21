@@ -11,4 +11,5 @@ def multiply(x,y):
     return multiple
 
 def divide(x,y):
-    pass
+    result = x/y
+    return result
